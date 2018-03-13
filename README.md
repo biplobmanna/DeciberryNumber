@@ -16,6 +16,6 @@ Deciberry Number for 17 = 4x10^1 + 9 =**49**
 <br>
 Deciberry Number for 37 = 3x10^2 + 8x10^1 + 9 = **389**
 
-#### So, Deciberry number for any number N can de defined as:
+### So, Deciberry number for any number N can de defined as:
 ##### If, N = x_n.2^n + .....+ x_2.2^2 + x_1.2^1 + x_0.2^0
 ##### DN(N) = x_n.10^n + ......+ x_2.10^2 + X_1.10^1 + x_0
